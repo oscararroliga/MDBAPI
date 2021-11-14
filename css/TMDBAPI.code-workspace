@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\como-conectarse-a-una-api-javascript-codigo_base"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TMDB"
+	}
+}

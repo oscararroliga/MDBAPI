@@ -1,0 +1,15 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	min-height: 100vh;  
+	font-family: 'Montserat', sans-serif;
+	background: #0b1526 !important;
+	color: #1d1d1d;
+}
+h1{
+    color: #ffc107;
+}
+h6{
+	color: bisque;
+}
